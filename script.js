@@ -19,7 +19,7 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 40px 80px;
+    padding: 5px 5px;
     background: rgba(15, 15, 15, 0.85);
     backdrop-filter: blur(10px);
     z-index: 1000;
